@@ -1,0 +1,1 @@
+RMap(Map(Infix(RString("key"), " -> ", RInt(123))))
